@@ -2,11 +2,10 @@
 
 The code shown here refers to
 the [Grove - 6-Axis Accelerometer and Gyroscope](https://www.seeedstudio.com/Grove-6-Axis-Accelerometer-Gyroscope.html)
-.
+sensor.
 
-In
-their [official wiki documentation](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/)
-, they provide the Arduino example. However, Raspberry Pi code is not provided. This repository
+In the [official wiki documentation](https://wiki.seeedstudio.com/Grove-6-Axis_AccelerometerAndGyroscope/), 
+the manufacturer provides the Arduino example. However, Raspberry Pi code is not provided. This repository
 shows a Python code for using the Grove - 6-Axis Accelerometer&amp;Gyroscope with GrovePi shield and
 a Raspberry Pi. The code here mentioned is an example of how to communicate with this sensor.
 
@@ -18,8 +17,7 @@ GrovePi by using a I2C port.
 ## Hardware used
 
 - [GrovePi+](https://www.seeedstudio.com/GrovePi.html) shield.
-- [Grove - 6-Axis Accelerometer and Gyroscope](https://www.seeedstudio.com/Grove-6-Axis-Accelerometer-Gyroscope.html)
-  .
+- [Grove - 6-Axis Accelerometer and Gyroscope](https://www.seeedstudio.com/Grove-6-Axis-Accelerometer-Gyroscope.html).
 - Raspberry Pi 3B or Raspberry Pi 4B.
 
 ## Documentation
